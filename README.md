@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-The "Spotify Analytics" Power BI project is built to unlock meaningful insights into user behavior, music trends, and performance metrics across the Spotify platform. By transforming raw data into visually compelling dashboards, this project helps users explore how listeners engage with songs, artists, and playlists over time. From tracking the rise of trending tracks to understanding user listening habits and identifying top-performing genres, this analytics tool empowers stakeholders—such as marketing teams, content curators, and artists—with the information they need to make smarter, data-driven decisions.
+The ["Spotify Analytics"](https://1drv.ms/u/c/53d9d0eaf14ddcbb/EZpELs5MAxZOmepQr2mL6v8BPo1BUJh-5fAjhWkA4aHcJQ?e=RwydcG) Power BI project is built to unlock meaningful insights into user behavior, music trends, and performance metrics across the Spotify platform. By transforming raw data into visually compelling dashboards, this project helps users explore how listeners engage with songs, artists, and playlists over time. From tracking the rise of trending tracks to understanding user listening habits and identifying top-performing genres, this analytics tool empowers stakeholders—such as marketing teams, content curators, and artists—with the information they need to make smarter, data-driven decisions.
 
 ### Data Sources
 
